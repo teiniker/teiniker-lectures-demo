@@ -1,6 +1,6 @@
 # Git 
 
-Blah blah....
+Remote changes...
 
 ## Introduction
 
