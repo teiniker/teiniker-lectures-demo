@@ -1,6 +1,6 @@
 # Git 
 
-Blah blah....
+Local changes...
 
 ## Introduction
 
