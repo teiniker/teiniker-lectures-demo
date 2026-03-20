@@ -1,1 +1,5 @@
-# teiniker-lectures-demo
+# Demo Repository
+
+Blah 
+
+Bla, blah
